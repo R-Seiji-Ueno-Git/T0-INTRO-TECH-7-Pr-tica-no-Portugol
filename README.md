@@ -1,6 +1,6 @@
 <h1 align="center">Exercícios com Vetores</h1>
 
-<p align="center">Este repositório contém soluções para dois exercícios envolvendo manipulação de vetores.</p>
+<p align="center">Este repositório contém soluções para dois exercícios envolvendo manipulação de vetores em PORTUGOL.</p>
 
 ## Exercício 1: Ordenação Decrescente
 
