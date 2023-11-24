@@ -1,33 +1,29 @@
-vetor1 é correspondente ao exercicio 1, e vetor 2 correspondente ao exercicio 2
+<h1 align="center">Exercícios com Vetores</h1>
 
-ENTRADA
-vetor 2 5 1 3 4 9 7 8 10 6
+<p align="center">Este repositório contém soluções para dois exercícios envolvendo manipulação de vetores.</p>
 
-Problemas: Atividades - Vetores (Resolva 1 exercício):
+## Exercício 1: Ordenação Decrescente
 
-Dado um vetor contendo 10 números inteiros não ordenados, construa um algoritmo que consiga ordenar o vetor em ordem decrescente, como mostra o exemplo abaixo:
+O primeiro exercício consiste em ordenar um vetor de 10 números inteiros não ordenados em ordem decrescente.
 
-saida: 
-vetor 10 9 8 7 6 5 4 3 2 1
+### Entrada
+O vetor inicial: `2 5 1 3 4 9 7 8 10 6`
 
-Exercicio 2:
-Elabore um algoritmo que leia 10 números inteiros e armazene em um vetor. 
-Em seguida, mostre na tela:
-Todos os elementos nos índices ímpares do vetor 
-Todos os elementos do vetor que são números pares
-A Soma de todos os elementos do vetor
-A Média de todos os elementos do vetor, armazenada em uma variável do tipo real
+### Saída Esperada
+O vetor ordenado: `10 9 8 7 6 5 4 3 2 1`
 
-Elementos nos índices ímpares:
-5 3 9 8 6
+## Exercício 2: Análise de Vetor
 
-Elementos pares:
-2 4 8 10 6
+Este segundo exercício requer a leitura de 10 números inteiros, armazenados em um vetor, e a exibição de diferentes informações sobre esses números.
 
-soma:
-55
+### Tarefas a serem Realizadas
+- Mostrar todos os elementos nos índices ímpares do vetor
+- Exibir todos os elementos pares do vetor
+- Calcular e mostrar a soma de todos os elementos do vetor
+- Calcular e exibir a média de todos os elementos do vetor (armazenada como um número real)
 
-média:
-5.5
-
-
+#### Resultados Esperados
+- Elementos nos índices ímpares: `5 3 9 8 6`
+- Elementos pares: `2 4 8 10 6`
+- Soma: `55`
+- Média: `5.5`
