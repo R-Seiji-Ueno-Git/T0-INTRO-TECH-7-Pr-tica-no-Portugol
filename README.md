@@ -16,13 +16,16 @@ O vetor ordenado: `10 9 8 7 6 5 4 3 2 1`
 
 Este segundo exercício requer a leitura de 10 números inteiros, armazenados em um vetor, e a exibição de diferentes informações sobre esses números.
 
+### Entrada
+O vetor inicial: `2 5 1 3 4 9 7 8 10 6`
+
 ### Tarefas a serem Realizadas
 - Mostrar todos os elementos nos índices ímpares do vetor
 - Exibir todos os elementos pares do vetor
 - Calcular e mostrar a soma de todos os elementos do vetor
 - Calcular e exibir a média de todos os elementos do vetor (armazenada como um número real)
 
-#### Resultados Esperados
+#### Saída de Resultados Esperados
 - Elementos nos índices ímpares: `5 3 9 8 6`
 - Elementos pares: `2 4 8 10 6`
 - Soma: `55`
